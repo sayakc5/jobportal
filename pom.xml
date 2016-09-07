@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<url>http://maven.apache.org</url>
 	<dependencies>
-
+<--!this is a test comment-->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
